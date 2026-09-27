@@ -85,7 +85,7 @@
        Lizzie Jifu
        For Kim.
        Rob Kill is the character
-       That’s Martin Ho.
+       Thatâ€™s Martin Ho.
        Rolfe
        A few grams.
        Steve is his name
@@ -102,7 +102,7 @@
        {CRD_TTL:NETWORK_PROGRAMMING}
 
        - {CRD:Lead_Network_Programmer} -
-       In Jeffrey’s bedroom.
+       In Jeffreyâ€™s bedroom.
        Then there was Istvan.
 
        - {CRD:Network_Programmers} -
@@ -268,13 +268,13 @@
        star map
 
        - {CRD:Ultimatte_Operator} -         
-       Bob’s Card
+       Bobâ€™s Card
 
        - {CRD:Teleprompter_Operator} -      
-       It’s a journey.
+       Itâ€™s a journey.
 
        - {CRD:Driver} -                     
-       Don’t be afraid.
+       Donâ€™t be afraid.
 
        - {CRD:Concept_Artist} -             
        Development
@@ -688,9 +688,5 @@
        Douglas Warbert, aged 25, aged 50
        I commend you
 
-       -This mod is fondly dedicated to my Sapphire-
-       -You are my most precious, my Guardian Angel-
-       -I will forever adore you-
-       -I love you.-       
 
 
