@@ -1,0 +1,765 @@
+       {CRD:CREDITS}
+
+       {CRD:INTRODUCTION1}
+       {CRD:INTRODUCTION2}
+
+
+
+       {CRD_TTL:PRODUCTION}
+
+       - {CRD:Executive_Producers} -
+       Marcus Sachs is an entrepreneur.
+       how
+
+       - {CRD:Producer} -
+       Pope
+
+       - {CRD:Associate_Producer} -
+       Julio Valletta was named man of the month.
+
+       - {CRD:Production_Coordinator} -
+       Exactly.
+
+
+
+       {CRD_TTL:DESIGN}
+
+       - {CRD:Director_of_Design} -
+       John the Head. age
+
+       - {CRD:Design_Leads} -
+       Todd returned.
+       He was played by Dustin Broody.
+
+       - {CRD:Designers} -
+       The man in the moon is Eric Beaumont.
+       And Lee
+       Brian Wigler is the man
+       19 years old.
+
+       - {CRD:Additional_Design} -
+       Brett is a woman.
+
+       - {CRD:Story} -
+       manufacturing company
+
+
+
+       {CRD_TTL:PROGRAMMING}
+
+       - {CRD:Technical_Director} -
+       Okay.
+
+       - {CRD:Programmers} -
+       Graham is an artist.
+       The world
+
+       - {CRD:Additional_programming} -
+       Nero
+
+
+       {CRD_TTL:NETWORK_PROGRAMMING}
+
+       - {CRD:Online_Technical_Director} -
+       Gospel of Matthew
+
+       - {CRD:Network_Programmers} -
+       Warriors are here
+       Brian is from Cleveland. age
+       Cristobal Hubert is the man in the dark.
+       The money is back.
+       Lang.
+       Under the Greek Tree.
+
+
+       - {CRD:Installer} -
+       Trilma.
+
+
+
+       {CRD_TTL:GAME_ARTISTS}
+
+       - {CRD:Lead_Artists} -
+       Dissapoint him
+       Oh, no.
+
+       - {CRD:Concept_Art} -
+       Reeds
+       Ruthless
+
+       - {CRD:Modelers} -
+       William is a worker.
+       Keegan has a lot of money.
+       Fighting
+       Michael too
+       a lawyer.
+
+       - {CRD:Animation} -
+       Jason is also a shepherd. I'm not like that.
+
+       - {CRD:Shell_Interface} -
+       He was a white man .
+
+       - {CRD:Additional_Art} -
+       Christopher of Aquitaine. age
+       Nguyen et al.
+       I chose
+
+
+
+
+       {CRD_TTL:CINEMATICS}
+
+       - {CRD:CG_Director} -
+       By John
+
+       - {CRD:CG_Art_Director} -
+       More!
+
+       - {CRD:CG_Artists} -
+       Thank you
+       Musical
+
+       - {CRD:Additional_CG} -
+       Patrick Press
+       His wife shan't
+
+
+
+
+       {CRD_TTL:IN-GAME_AUDIO}
+
+       - {CRD:Lead_Sound_Designer} -
+       Second goon
+
+       - {CRD:Sound_Designer} -
+       Photo: David Phillips.
+
+       - {CRD:Original_Score} -
+       The French hate Muslims.
+
+
+
+
+       {CRD_TTL:VIDEO_PRODUCTION_CREW}
+
+       - {CRD:VideoProducer} -                      
+       Musicals
+
+       - {CRD:Director} -                   
+       Corgan, 12
+
+       - {CRD:Screenplay} -                         
+       Winnie McGiley is an office worker.
+
+       - {CRD:Editor} -                     
+       White rope
+
+       - {CRD:Lead_Visual_Effects_Artist} -
+       Photo: Kenny
+
+       - {CRD:Production_Sound} -           
+       Wednesday
+       Butler
+
+       - {CRD:Casting_Director} -           
+       Marley Education KSA
+
+       - {CRD:Director_of_Photography} -    
+       January.
+
+       - {CRD:CG_supervisor} -	
+       Chuck collects photos from postcards.
+
+       - {CRD:Visual_sets} -
+       Bob McGee was honored.
+       Puppets
+       Marguerite pizza
+       Disneyland
+
+       - {CRD:Video_Compression} -
+       Floors
+
+       - {CRD:Director_of_Photography} -
+       Yes, 19
+
+       - {CRD:Gaffer} -                     
+       Bicknell is the photographer
+
+       - {CRD:Key_Grip} -                   
+       Penelope Micah
+
+       - {CRD:Grip} -                               
+       Salem V
+
+       - {CRD:Boom_Operator} -              
+       Love you, Richard
+
+       - {CRD:Foley_Recordist} -              
+       Nelson was sixty years old at the time.
+       Office
+
+       - {CRD:Foley_Artist} -              
+       Diane is quick and smart.
+
+       - {CRD:Construction_Coordinator} -
+       Because
+
+       - {CRD:Lead_Sculpture} -
+       Miller is leaving
+        
+       - {CRD:Assistant_Sculpture} -
+       forty
+
+       - {CRD:Set_Decorator} -
+       Karius was born in Norville.
+
+       - {CRD:Propmaster} -                         
+       Bernie robbed the store.
+
+       - {CRD:Props_Assistants} -
+       a photographer
+       Dobbs.
+
+       - {CRD:KeyMakeupEffectsWardrobe} -
+       Wild forest
+
+       - {CRD:Key_Hair} -
+       Underworld
+
+       - {CRD:Hair} -
+       Cindy likes him
+       Play Music
+
+       - {CRD:Make_Up_Assistant} -
+       Lucio is Anna.
+
+       - {CRD:Wardrobe} -
+       Happy birthday Tracy
+
+       - {CRD:Wardrobe_Assistant} -
+       Johannes Stein
+       grind
+
+       - {CRD:Production_Coordinator} -     
+       Home
+
+       - {CRD:Assistant_Coordinator} -     
+       They were in a coma.
+
+       - {CRD:Production_Assistants} -      
+       Nicholas the king
+       great
+       The Diamond Embassy is nearby.
+
+       - {CRD:Script_Supervisor} -
+       This place?
+
+       - {CRD:Teleprompter_Operator} -      
+       King David.
+
+       - {CRD:Ultimatte_Operator} -         
+       Curtis 
+       Be the first to report
+       Prophecy
+
+       - {CRD:Concept_Artist} -             
+       Engineer
+
+       - {CRD:Storyboard_Artist} -          
+       Save our souls
+
+       - {CRD:Reader} -                     
+       He was born in Finley, Bolton County.
+
+
+
+       {CRD_TTL:Cast}
+
+       - {CRD:Live_Action} -
+
+{CRD:Yuri}				Odo Kirsch is a journalist.
+{CRD:PresidentDugan}			The culture of the Rise community is great.
+{CRD:AgentTanya}			O’Rear’s career didn’t last long.
+{CRD:GeneralCarville}			Good,
+{CRD:PremierRomanov}		        Nicholas Burt, 19 years.
+{CRD:LieutenantEva}			Athena Matthews, treasurer.
+{CRD:LieutenantZofia}			Cognac
+{CRD:DrEinstein}			Larry, jr.
+{CRD:ChairmanBob}			Rick, who is very rich.
+{CRD:SovietOfficers}			Moss Jr.
+                                        Almost rich
+                                        Igor Jessica is a wonderful person.
+{CRD:AlliedGIs}			        Glass
+                                        Lamar Lux, coach.
+                                        Suffered
+                                        Her name is Makenzi.
+{CRD:PrisonGuards}                      Yellow
+                                        Smith saw it that way.
+{CRD:SecretService}			Garrote
+                                        Myers syndrome.
+{CRD:WhiteHouseAides}                   Al Code - Photo.
+                                        Who
+                                        Mooney’s friend, sir.
+                                        Portrayal is correct
+                                        Said Heather
+{CRD:AirForceGenerals}		        Him, again?
+                                        Robert Osik, teacher
+{CRD:ArmyGenerals}		        Bruce the Great.
+                                        d.
+{CRD:NavyAdmiral}		        GG
+{CRD:Medevac}			        Age
+{CRD:MoroccanBarGirl}			Gregory will be president
+{CRD:BellyDancer}			Laura was absolutely honest.
+{CRD:SovietTimeCommando}		A female.
+
+
+
+       - {CRD:In-game_Voices} -
+
+       Look at Andre Abelson.
+       Voted Bob.
+       Same with
+       Ellie graduated from Baskin-Robbins University.
+       a good example.
+       When Buddha was young,
+       This is Jane
+       The Young Frenchman
+       There's also Kate West.
+       Tabert Deep End.
+       Finally said
+       Written
+       It was safe and sound
+       go
+       Semanjong Semen Gentic.
+       He pulled it up.
+       Finally
+       Marshall Islands
+       Your Majesty
+       His feet
+       Osama This is Greece.
+       Copy of this document
+       Grant Albark
+       It was just
+       Radouglas Radouglas
+       Gendek
+       Bird Island and Bird Island
+       Photos
+       wire
+       His phone number
+       This is Antonio Marobis.
+       NDW Chen
+       Philip left. Billy is gone.
+       Natalo - Semantics
+       Neil Ross wrote:
+       The number is Heidi.
+       reading
+       his ship
+
+
+
+
+       {CRD_TTL:WS_QUALITY_ASSURANCE}
+
+       - {CRD:QualityAssuranceDirectedby} -
+       Gujarat Sbury Count.
+
+       - {CRD:QA_Supervisor} -
+       The word "Latch" is not available.
+
+
+       - {CRD:SrQA_Analysts} -
+       Author: Woolson
+
+       - {CRD:QA_Analysts} -
+       More
+
+       - {CRD:InstallGuiSpecialist} -
+       Devotion: Makesh
+
+       - {CRD:SoloSpecialist} -
+        Rupp
+
+       - {CRD:MultiplayerSpecialist} -
+       Huff, Editor
+
+       - {CRD:Specialists} -
+       Kannada Mr. Blevins
+       Assistant Secretary;
+       Closeness to the people of the country;
+
+       - {CRD:SrTech} -
+       This is Hopkins High Tech.
+
+       - {CRD:DataEntry} -
+       This is Root.
+
+       - {CRD:BugReview} -
+       Fletcher, Secretary
+
+       - {CRD:QA_TestersLasVegas} -
+       Or Snowdrops
+       Underwood, Secretary
+       Editor
+       David N.B.
+       Director
+       Russell is one of them.
+       Run for your life
+       Part of speech: Tamil Yadav
+       Drown!	
+       Kashmir
+       Rainford
+       Same person
+       Jet aircraft
+       Director: Josh O'Brien
+       don't know
+       tell me this for once
+       Complete
+       Java K. Rocklin and M.S.
+       Mithril Sloan
+       neutral.
+       Mithila Vidya from Sri Lanka
+       SELL Lieutenant Sergeant.
+       Rasmussen, Commander
+       J Manuja Mr. Mr. This is a very important question.
+       Voice
+       Respectfully, Mr. Laxman
+       Hiking, cycling, hiking.
+       1960 - Published.
+       deceased.
+
+       - {CRD:QA_TestersPacific} -
+       David gave the.
+       - Hands, with you.
+       Bolt is one of them.
+       Only Gujarat was closed.
+       Apologies to you Jay 
+       J. J. and Goddard, President
+       Jajni herself
+       Samuel's brother.
+
+
+
+
+       {CRD_TTL:CustomerService}
+	
+       - {CRD:director} -
+       Boyd Beasley
+
+       - {CRD:SDC} -
+       Mary Smith
+
+       - {CRD:Lead} -
+       Tim Hempel
+
+       - {CRD:Reps} -
+       Michelle Davis
+       Daniel Beahn
+
+
+
+
+       {CRD_TTL:MARKETING}
+
+       - {CRD:Vice_President_of_Marketing} -
+       People are being bullied.
+
+       - {CRD:Marketing_Product_Manager} -
+       Mithila Madhuri
+
+       - {CRD:Public_Relations_Managers} -
+       Wayne's team is good
+       Mithila, author M.Sc. S.S.
+
+       - {CRD:DirectorofGraphicServices} -
+       Peavey, author
+
+       - {CRD:Online_Director} -
+       There was a boy named Marley.
+
+       - {CRD:Online_Graphic_Artist} -
+       Other articles.
+       He was a politician.
+
+       - {CRD:OnlineCommunityManager} -
+       Methylsilena, m. A.
+
+       - {CRD:Graphic_Designer} -
+       created it.
+
+       - {CRD:Marketing_Assistant} -
+       travel
+
+       - {CRD:Manual} -
+       Written by the Equator
+
+       - {CRD:PackagePhotography} -
+       Note that this is not true.
+
+
+
+       {CRD_TTL:SUPPORT}
+
+       - {CRD:Operations_Manager} -
+       snow
+
+       - {CRD:MIS_Manager} -
+       Council meeting
+
+       - {CRD:MIS_Technicians} -
+       New courage
+       Close your eyes.
+
+       - {CRD:HumanResourcesOfficeManager} -
+       K, edited by Christina Langora.
+
+       - {CRD:Administrative_Assistance} -
+       the old man asked her.
+       He will be here soon.
+
+       - {CRD:Legal_Assistance} -
+       He already has a degree.
+
+
+
+       - {CRD:Special_Thanks} -
+       Title: Author |
+       Read this article.
+       CEO Steve Hatter.
+       Author: Bajang.
+       author
+       Bernie is not a Christian, but he is a writer.
+
+
+
+       {CRD_TTL:WS_LOCALIZATION}
+
+       - {CRD:Director_of_Localization} -
+       See Savannah.
+
+
+
+       {CRD_TTL:WORLDWIDE_LOCALIZATON}
+
+
+       {CRD_TTL:KOREA}
+
+       - {CRD:Localization_Manager} -
+       speech
+
+       - {CRD:Localization_Engineers} -
+       Created by Justin Kim.
+       And
+
+       - {CRD:Translations} -
+       Several parties
+       regulate it
+
+       - {CRD:RecordingEditingStudio} -
+       Kung Kaun Information.
+
+       - {CRD:Recording_Engineer} -
+       EUI-June.
+
+       - {CRD:DeptGeneralManager} -
+       Created by Oat Jung.
+
+       - {CRD:Marketing_Manager} -
+       Produced by
+
+       - {CRD:Product_Manager} -
+       Richard Coon, Richard Coon
+
+       - {CRD:Voice_Actors} -
+       preservation
+       There is no snow.
+       Strange, magical things.
+       tea
+       teacher
+       Singer: Miss Kyung
+       called Jungian suffering.
+       take it
+       Beautiful.
+       Yeah - yeah.
+       and lions
+       Lee Kang Kong - Love Song (Video)
+       His new book is about deception.
+       If you do this
+       There’s no warning that you haven’t heard any of the last nine in this episode.
+       won is good
+
+       - {CRD:BalancingTesters} -
+       Change me change me.
+       This guy, this
+       International Annual Conference.
+       Come on, Mr. Junhwan.
+
+
+       {CRD_TTL:CHINA}
+
+       - {CRD:LocalizationProjectManager} -
+       I’m going to turn into a ten-year-old Chris Kong
+
+       - {CRD:Localization_Manager} -
+       Sherry read
+
+       - {CRD:Localization_Engineer} -
+       Max Welling
+
+       - {CRD:Translations} -
+       she
+
+
+       {CRD_TTL:EUROPEANLOCALIZATION}
+
+       - {CRD:SoftwareLocalizationManager} -
+       Thank you welcome to the debate.
+
+       - {CRD:AudioManager} -
+       David said with a sigh.
+
+       - {CRD:ProjectManager} -
+       Merry Christmas!
+
+       - {CRD:CQCSupervisor} -
+       is amazing
+
+
+       {CRD_TTL:FRANCE}
+
+       - {CRD:ProductLocalizationManager} -
+       Questions?
+
+       - {CRD:Translation_coordinator} -
+       Eve.
+
+       - {CRD:Translators} -
+       model
+
+       - {CRD:Test_Coordinator} -
+       The lion’s mane.
+
+       - {CRD:Tester} -
+       handmade products.
+
+       - {CRD:RecordingEditingStudio} -
+       Hello Paris.
+
+       - {CRD:Voice_Actors} -
+       Size of the frame.
+       Commander-in-Chief;
+       Francis Cadolia;
+       Renato.
+       Subscribe
+       Maung;
+       Herb Cardiff.
+       Head, head.
+       Michael told me.
+       slope -
+       Burns
+       For France.
+       Kelly: Yeah, I pray a lot.
+       Christ is God.
+
+       - {CRD:Marketing_Manager} -
+       author: Raphael, engineer;
+
+       - {CRD:Product_Manager} -
+       Partridge and porridge
+
+
+       {CRD_TTL:GERMANY}
+
+       - {CRD:ProductLocalizationManager} -
+       No one followed the London girl with her new chair.
+
+       - {CRD:Translation_coordinator} -
+       Elephant Garden
+
+       - {CRD:Translators} -
+       The tower is ahead.
+
+       - {CRD:Test_Coordinator} -
+       Example of Nutboom.
+
+       - {CRD:Tester} -
+       Evolution of the logo
+
+       - {CRD:RecordingEditingStudio} -
+       Tony, Hamburg
+
+       - {CRD:Voice_Actors} -
+       Your car windows may be cracked.
+       map
+       Great analysis of yours.
+       Part II
+       Claude
+       Saturday night
+       Bathrooms
+       case
+       By George Gilner.
+       “Oh no,” he says.
+       Stephanie cut him off.
+       Director: Werner
+       Heinz was an avid reader.
+       Author: Ireland
+       My face was oily. Pa.
+       Points
+       and groups.
+       Light Maris
+       in prison;
+       How Leaders Work
+       Peter sauce Peter sauce.
+       The writer later.
+       Rajan slapped Rand;
+       Staff
+       Huntsville.
+       Mark 
+       philosopher
+
+       - {CRD:Product_Manager} -
+       Personal problem
+
+       - {CRD:Public_Relations} -
+       it was a while?
+
+
+       {CRD:greeting2}
+       {CRD:greeting3}
+       {CRD:greeting4}
+
+       Richard Hicks, Heidel D. {CRD:and} producer.
+       Sister;
+       Emma
+       Julie and Christ, et al.{CRD:and} A man named Hutton.
+       Becca Teter's esteemed cousin
+       and his wife {CRD:ToddWilliams}
+       A Christian family. {CRD:and} journalism as a profession
+       Mr. Tony Agee. {CRD:JasonZirpolo}
+       friend of youtube {CRD:and} It's dark, lots of places.
+       {CRD:MikeJones}
+       Kim Foss, now. {CRD:and} Long shot, architect.
+       A man named Audrey. {CRD:FrankHsu}
+       Run and kill them. {CRD:symboland} Mr. E. {CRD:symboland} Guys, I have a meeting. {CRD:symboland} Thanks, dear Carol!
+       and others. {CRD:and} Contributing writer Josh
+       {CRD:BryanWiegele1} Another guy named boost {CRD:BryanWiegele2} I'm nothing.
+       {CRD:Julio}
+       Ruben, actor
+       {CRD:Julie}, Brent.
+       Sajin {CRD:and} baby Sam
+       Gerry, Estella {CRD:and} Congratulations.
+       Stella, thank you very much. {CRD:pilot}
+       Degrees {CRD:and} Merck Frost, Pizza editor
+       Include {CRD:and} Thanks Martha... {CRD:and} Reported
+       There are a couple of different types of graphics available. {CRD:and} Equally:
+       I think I am better than this?
+       Rob him dead
+
+       -This mod is fondly dedicated to my Sapphire-
+       -You are my most precious, my Guardian Angel-
+       -I will forever adore you-
+       -I love you.-       
+
+       {CRD:greeting5}
+
+

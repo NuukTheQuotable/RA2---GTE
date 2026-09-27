@@ -1,0 +1,696 @@
+       {CRD:CREDITS}
+
+       {CRD:INTRODUCTION1}
+       {CRD:INTRODUCTION2}
+
+
+
+       {CRD_TTL:PRODUCTION}
+
+       - {CRD:Executive_Producer} -
+       Mark Skaggs is a genius
+
+       - {CRD:Producer} -
+       Harvard Dog.
+
+       - {CRD:Associate_Producer} -
+       Julius Nobb, b.
+
+
+
+       {CRD_TTL:DESIGN}
+
+       - {CRD:Design_Leads} -
+       Dustin Paulda, 19 years old.
+       Friends of John Peach
+       Write the first page.
+
+       - {CRD:Designers} -
+       Thoreau, 19
+       Eric Beaumont: Do you want more followers?
+       It was Tim
+       Continue reading the relevant information.
+       Dan Evans is a man.
+       Mika Fedran
+
+       - {CRD:Additional_Design} -
+       Mike Down is the man.
+
+       - {CRD:Story} -
+       My name is:-
+       Margaret:
+       Desk;
+       Three million fans are waiting on your website!
+
+
+
+       {CRD_TTL:GAME_ARTISTS}
+
+       - {CRD:Lead_Artist} -
+       Christopher Acton
+
+       - {CRD:Artists} -
+       Adams
+       Deller;
+       In the lobby
+       She is Jenny Keegan
+       I went to Magellan's Cathedral.
+       Tell me the truth.
+       Tailors
+       Guglielmo
+       Jason
+
+       - {CRD:Concept_Art} -
+       T.J. Washing:
+       tiger:
+
+       - {CRD:Additional_Art} -
+       Tom Fitz is a man.
+       Filippo Rubino
+
+       - {CRD:Consultant} -
+       Glenn is famous.
+
+
+
+       {CRD_TTL:PROGRAMMING}
+
+       - {CRD:Technical_Director} -
+       plane
+
+       - {CRD:AdditionalTechDirection} -
+       I want Steve.
+
+       - {CRD:Programmers} -
+       Lizzie Jifu
+       For Kim.
+       Rob Kill is the character
+       That’s Martin Ho.
+       Rolfe
+       A few grams.
+       Steve is his name
+       Brett and him.
+       Joseph Unbost
+       Denzel Marfer is the guy
+       Ferrell
+
+       - {CRD:Installer} -
+       I read Mary Mary.
+
+
+
+       {CRD_TTL:NETWORK_PROGRAMMING}
+
+       - {CRD:Lead_Network_Programmer} -
+       In Jeffrey’s bedroom.
+       Then there was Istvan.
+
+       - {CRD:Network_Programmers} -
+       Vampires
+       Cleveland state
+       Dancing with Craig
+       Arsenal
+
+
+
+       {CRD_TTL:IN-GAME_AUDIO}
+
+       - {CRD:Lead_Sound_Designer} -
+       This is Michael.
+
+       - {CRD:Sound_Designer} -
+       David Eratosthenes
+
+       - {CRD:Original_Score} -
+       Francis
+
+
+
+       {CRD_TTL:CINEMATICS}
+
+       - {CRD:CG_Director} -
+       John smiled and said.
+
+       - {CRD:CG_Art_Director} -
+       and Christopher Miras.
+
+       - {CRD:CG_Lead_Artist} -
+       Alexa Taggett
+
+       - {CRD:CG_Artists} -
+       chair?.
+       Michelle
+       Matthew.
+       Responsibility
+       Jimmy is a character
+       When will Toriko Jordan sing?
+       Rax
+
+       - {CRD:Additional_CG} -
+       Patting
+       Embassies
+       Okay, you're silly.
+
+       - {CRD:CG_Concept_Artists} -
+       D.J.
+       Robin You got a chance.
+       M.
+
+       - {CRD:Video_Compression} -
+       Excellence
+
+       - {CRD:Production_Coordinator} -
+       Julia
+
+       - {CRD:Audio_Director} -
+       Paulo took it.
+
+       - {CRD:Cinematic_Sound} -
+       Ugahara
+       barley
+
+       - {CRD:Additional_Score_by} -
+       artist?,
+
+
+
+       {CRD_TTL:VIDEO_PRODUCTION_CREW}
+
+       - {CRD:VideoProducer} -                      
+       From the International Post Office.
+
+       - {CRD:Director} -                   
+       Jose Kookan takes over.
+
+       - {CRD:Screenplay} -                         
+       John
+       mental
+
+       - {CRD:Editor} -                     
+       Kurt Cobain
+
+       - {CRD:Lead_Visual_Effects_Artist} -
+       Monkeys
+
+       - {CRD:Audio_Director} -
+       Paul St. Evans
+
+       - {CRD:Production_Sound} -           
+       Eating loss .
+       St. Sullivan took it.
+
+       - {CRD:Casting_Director} -           
+       Mary Lillard, a C.S.A. student, participated in the research.
+
+       - {CRD:Director_of_Photography} -    
+       Curtis' Monster
+
+       - {CRD:1st_Assistant_Director} -     
+       Famous.
+
+       - {CRD:2nd_Assistant_Director} -     
+       brought it
+
+       - {CRD:Production_Coordinator} -     
+       Home
+
+       - {CRD:Production_Assistants} -      
+       Tom
+       living water.
+       Lucy is really funny.
+
+       - {CRD:Art_Director} -
+       Karen
+
+       - {CRD:Propmaster} -                         
+       Galburn
+
+       - {CRD:Set_Dresser} -                        
+       Graypool
+
+       - {CRD:Construction_Coordinator} -
+       Here is Z*.
+
+       - {CRD:Carpenter} -
+       I'll do it myself
+
+       - {CRD:Additional_Set_Construction} -
+       Internet Documents.
+
+       - {CRD:KeyMakeupEffectsWardrobe} -
+       Ronald wants to .
+
+       - {CRD:Hair} -
+       Alison in the Morning
+
+       - {CRD:Make_Up_Assistant} -
+       China Road
+
+       - {CRD:Wardrobe} -
+       Decibels.
+
+       - {CRD:Wardrobe_Assistant} -
+       Windham
+
+       - {CRD:Gaffer} -                     
+       Jeremy agreed.
+
+       - {CRD:Key_Grip} -                   
+       Improved
+
+       - {CRD:Grip} -                               
+       xAngela Gonzalez
+
+       - {CRD:Boom_Operator} -              
+       Richard the Lionheart
+
+       - {CRD:Visual_Effects_Compositor} -
+       star map
+
+       - {CRD:Ultimatte_Operator} -         
+       Bob’s Card
+
+       - {CRD:Teleprompter_Operator} -      
+       It’s a journey.
+
+       - {CRD:Driver} -                     
+       Don’t be afraid.
+
+       - {CRD:Concept_Artist} -             
+       Development
+
+       - {CRD:Storyboard_Artist} -          
+       Jeff Blessing
+
+       - {CRD:Reader} -                     
+       Screws and bolts
+
+       - {CRD:Catering} -                   
+       the EDL election.
+
+
+
+       {CRD_TTL:WS_LOCALIZATION}
+
+       - {CRD:Director_of_Localization} -
+       Thirteen Hoebners.
+
+
+
+       {CRD_TTL:WS_QUALITY_ASSURANCE}
+
+       - {CRD:QualityAssuranceDirectedby} -
+       With the Holy Ghost.
+       So did Mike .
+
+       - {CRD:QA_Analysts} -
+       Police
+       Dub Suman
+
+       - {CRD:QA_Supervisor} -
+       I've seen this before
+
+       - {CRD:RA2_Lead} -
+       Want to get more followers?
+
+       - {CRD:RA2_Solo_Lead} -
+       Christopher Blevins
+
+       - {CRD:RA2_Skirmish_Lead} -
+       Connect the hose.
+       is
+
+       - {CRD:RA_Multiplayer_Lead} -
+       Chucky
+
+       - {CRD:QA_Testers} -
+       Foreword by Bill Clint
+       Thanks, Greg
+       Kimball
+       Michael H. McCarthy
+       brought it
+       And Ethel
+       My friends
+       The country of Chad
+       Author: Steve
+       Is this true
+       lewis gun
+       Presented by Levi Luca
+       Brian brought it
+       Riccardo and Shit
+       Michelle
+       Cople D, Benjamin
+
+       - {CRD:QA_Administrator} -
+       Nazi church
+
+       - {CRD:QA_Technicians} -
+       Da Vinci
+       Peace
+
+       - {CRD:CS_Reps} -
+       Roses
+       I love you a lot
+
+
+
+       {CRD_TTL:MARKETING}
+
+       - {CRD:Vice_President_of_Marketing} -
+       Trees
+
+       - {CRD:Marketing_Product_Manager} -
+       Uhlig
+
+       - {CRD:Public_Relations_Director} -
+       Aluminum is prominent here
+
+       - {CRD:PublicRelationsCoordinator} -
+       Christ is Risen
+
+       - {CRD:DirectorofGraphicServices} -
+       Control
+
+       - {CRD:Online_Director} -
+       Marco Morse
+
+       - {CRD:Online_Graphic_Artist} -
+       He walks among us
+
+       - {CRD:Graphic_Designer} -
+       David mountain
+
+       - {CRD:Marketing_Assistant} -
+       Buck
+
+
+
+       {CRD_TTL:SUPPORT}
+
+       - {CRD:Operations_Manager} -
+       Worn by Sean Ellis
+
+       - {CRD:MIS_Manager} -
+       Snow
+
+       - {CRD:MIS_Technicians} -
+       Greeb bath
+       Your Eyes
+
+       - {CRD:HumanResourcesOfficeManager} -
+       Christina Mexico
+
+       - {CRD:Administrative_Assistance} -
+       by Reese
+
+       - {CRD:Legal_Assistance} -
+       Jenny liked it 
+
+
+
+       - {CRD:Special_Thanks} -
+       Luke's bar
+       Him
+       Birthday
+       Francisco Gabbio
+       Ice Sand
+       I protested.
+       Haynes
+       Hostess
+       BRAKE Yes
+       Adam E. Green
+       Lee
+       Leslow.
+       good stuff
+       Hello, Stisolevitz.
+       Vote {CRD:symboland} Fiber {CRD:greeting1}
+
+       Ed's milk {CRD:and_the} El Dorado gold
+       Outside of Swann's world, Los Angeles is unknown.
+
+
+
+       {CRD:greeting2}
+       {CRD:greeting3}
+       {CRD:greeting4}
+
+       Just {CRD:and} Reagan is bald
+       French Red {CRD:and} Justin Bauer
+       Melissa, Ernest {CRD:and} Boyer
+       Melissa Ernst
+       Evelina Beaumont: Do you want more students? {CRD:and} Becca has arrived
+       Price, Harvard, Baku {CRD:symboland} The Oak is Incredible
+       Overrated {CRD:and} brown sugar
+       Washington
+       Not mine
+       The Bible {CRD:and} Kiss from Cleveland
+       "Red Apple" Julie {CRD:and} onomatopoeia
+       Michael has a price {CRD:symboland} Arohanui Francesco
+       Foreigner
+       Brunch
+       Grey {CRD:symboland} Someone named Ken, {CRD:symboland} Dining Room
+       Green is Green
+       Thank You, Christopher {CRD:and} Willem Was Big
+       Noah Is a Child {CRD:and} Ron Is a Thief
+       Margaret pizza, keen {CRD:and} Shagulin
+       Cough {CRD:and} Martinova
+       Ralph
+       Here's What I Did {CRD:and} Laura's eggs
+       John organ
+       Fire and ignition {CRD:and} Oscar
+       Approved {CRD:and} K
+       Upper Part (Blackwater)
+
+
+
+       {CRD_TTL:Cast}
+
+       - {CRD:Live_Action} -
+
+{CRD:PresidentDugan}			Light of knowledge
+{CRD:Yuri}				Kirby agrees.
+{CRD:GeneralThorn}			Interview
+{CRD:AgentTanya}			Kelly Party: Why do you want more children?
+{CRD:PremierRomanov}		Michaela works.
+{CRD:LieutenantEva}			general of Athens
+{CRD:LieutenantZofia}			Since January
+{CRD:GeneralVladimir}			Gregory
+{CRD:DrEinstein}			The basketball
+{CRD:SovietOfficer}			Inbox
+{CRD:PrimeMinister}			Michael Jr
+{CRD:GeneralLyon}			This is a free book written by Frank Perry.
+{CRD:GermanChancellor}		Man in the Moon.
+{CRD:SovietNewscaster}		Want more followers?
+{CRD:KoreanCommander}		Neat
+{CRD:TeslaTrooper}			Igor is dead.
+{CRD:BaseCommander}			Harry
+{CRD:WatchOfficer1}			My friend is my friend.
+{CRD:WatchOfficer2}			Benham said
+{CRD:FemaleOfficer} 			Go to New York.
+{CRD:AlliedGI1}			Wild west
+{CRD:AlliedGI2}			Rolling out of my mind
+{CRD:AlliedGI3}			Tiffany
+{CRD:AlliedSoldier1}			Staff is real
+{CRD:AlliedSoldier2}			help him
+{CRD:AlliedGuard1}			most loathsom
+{CRD:AlliedGuard2}			he is pretty
+{CRD:AlliedGeneral} 			Who is this
+{CRD:AlliedColonel} 			Rob is Christian
+{CRD:SecretServiceman1}		Sting	
+{CRD:SecretServiceman2}		He is of good help
+{CRD:SovietSoldier1}			Alex is mossy
+{CRD:SovietSoldier2}			Igor is with us
+{CRD:SovietConscript1}		You don't have to do this
+{CRD:SovietConscript2}		Well?
+{CRD:WhiteHouseAide} 		Who is she
+{CRD:BikiniBabe1}			Old men are beneficial
+{CRD:BikiniBabe2}			good
+{CRD:Chaplain}			So
+{CRD:Waitress}			Good position
+
+
+
+       - {CRD:In-game_Voices} -
+
+{CRD:YuriPsyCorps}							Eight titles;
+{CRD:Americantaunts} 							on the Wall
+{CRD:AgentTanya} 							Kerry Road.
+{CRD:LieutenantEva} 							Athens Festival
+{CRD:LieutenantZofia} 							Alexander.
+{CRD:Soviettaunts} 							Gregorian Presses.
+{CRD:Germantaunts} 							Excuse me
+{CRD:NightHawkSovietVehicle} 					Albert is a musician.
+{CRD:SpySniperAlliedInfantry} 					I cook.
+{CRD:Installer}						North;
+{CRD:InstallerAlliedBoatIntruder} 					a driver.
+{CRD:Texan} 								Bettis
+{CRD:AllCivilianSovCivilian} 					Just two words
+{CRD:RocketeerChronoPropaganda} 			Dobby the Bird
+{CRD:BBCAmericanNewscaster} 				Here they are.
+{CRD:SEALSovCivilianAllVehicle} 				Stephen Macedonian Malup, worker;
+{CRD:LibyanIraqiDemolition} 				Norman is now king.
+{CRD:SovietInfantryEngineer} 					Bill speaks
+{CRD:DesolatorSovietBoat} 						Gustaf Brooks
+{CRD:CubanTerroristEagleFrench} 			General knowledge.
+{CRD:BritishtauntsKirovCrazyIvan} 					What is your name
+{CRD:SergeantFlakWWDomination} 				Kanun, treasurer;
+{CRD:IntercomComputerFemale} 				Gasoline
+{CRD:AmericanCivilianEngineer} 				Denzin
+{CRD:TeslaTrooper} 							John
+{CRD:Koreantaunts} 							Thunderstorm
+
+
+
+
+       {CRD_TTL:WORLDWIDE_LOCALIZATON}
+
+
+       {CRD_TTL:KOREA}
+
+       - {CRD:Localization_Manager} -
+       Van
+
+       - {CRD:Localization_Engineer} -
+       Sagogpackage
+
+       - {CRD:Translations} -
+       Merely
+       Young men
+       More on Facebook
+
+       - {CRD:RecordingandEditingStudio} -
+       Information Technology
+
+       - {CRD:Recording_Engineer} -
+       No Time
+
+       - {CRD:Marketing_Manager} -
+       yang my connotation
+
+       - {CRD:Product_Manager} -
+       Ian G String
+
+
+
+
+       {CRD_TTL:CHINA}
+
+       - {CRD:LocalizationProjectManager} -
+       Christie
+
+       - {CRD:Localization_Manager} -
+       Others Like
+
+       - {CRD:Translations} -
+       Thompson
+
+       - {CRD:Language_Testing} -
+       Teacher
+
+       - {CRD:Marketing_Manager} -
+       Tom Chen
+
+       - {CRD:Product_Manager} -
+       Learned
+
+       - {CRD:Package_Manual_Design} -
+       Just Lying
+
+       - {CRD:Special_Thanks_to} -
+       Please Contact TL Chua Gu, TL Chua Gu
+
+
+
+
+       {CRD_TTL:FRANCE}
+
+       - {CRD:ProductLocalizationManager} -
+       I Love You
+
+       - {CRD:Translators} -
+       The coastline
+       sativandrodex
+
+       - {CRD:Translation_coordinator} -
+       Congratulations
+
+       - {CRD:Actors} -
+       Contact Us
+       Eudoria
+       Skittles
+       -
+       Information
+       Yes
+       Japan
+       I Don't Know What To Do.
+       Popovits
+       Head
+       Bad
+       A:
+       This soda
+       About This Article
+       Communication
+
+       - {CRD:Tester} -
+       About Cooking
+
+       - {CRD:Test_Coordinator} -
+       Aunt
+
+
+
+       {CRD_TTL:GERMANY}
+
+       - {CRD:Localization_Manager} -
+       Praiseworthy
+
+       - {CRD:Translator} -
+       b.
+
+       - {CRD:Voice_Casting_Manager} -
+       Dirk Whitlow is a politician.
+
+       - {CRD:Language_Testing} -
+       Bertram
+
+       - {CRD:Marketing_Director} -
+       beer
+
+       - {CRD:Product_Manager} -
+       Larson, 19
+
+       - {CRD:Voice_Actors} -
+       Karbadi.
+       Tsuru is a creepy monster
+       an actress
+       Voice of the Serpent .
+       President of France
+       For example, overnight.
+       School, 1999.
+       Ben is a feminist politician
+       Verena, his wife.
+       billionaire
+       expert mode
+       Church 19
+       My name is Martha May
+       High volume
+       Edited by Hendrik Muller
+       Clean eating
+       Man of the people .
+       Use the tools provided in the
+       born Rose A.
+       Lyrics are in this
+       Get back!
+       The Wild Hub Mix is ??no longer available.
+       War game
+       Hans Cybers
+       Bernard is a student of Stephen
+       Douglas Warbert, aged 25, aged 50
+       I commend you
+
+       -This mod is fondly dedicated to my Sapphire-
+       -You are my most precious, my Guardian Angel-
+       -I will forever adore you-
+       -I love you.-       
+
+
